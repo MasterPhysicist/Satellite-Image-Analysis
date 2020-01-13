@@ -1,0 +1,4 @@
+Field                        Max NDVI               Date of Max NDVI          Area under curve
+SyngentaP3                    0.500449                  94.92                  64.616301
+/Syngenta_P10                 0.462258                  109.18                  53.251016
+/Syngenta_P17                 0.379501                  135.58                  50.470606
